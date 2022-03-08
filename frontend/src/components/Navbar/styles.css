@@ -1,8 +1,8 @@
 header{
     background-color: var(--color-primary);
     height: 60px;
+    display: flex;
     align-items: center;
-
 }
 
 .dsmovie-nav-content{
@@ -26,4 +26,3 @@ header{
     margin: 0 0 0 10px;    
     font-size: 12px;
 }
-
